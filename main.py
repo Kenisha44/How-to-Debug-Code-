@@ -17,4 +17,4 @@ add(4, 'djfisd')
 #step useful command 
 #a gives all the arguments 
 #w shows context of current line executed 
-#This is from ztm
+#This is from ztm course 
