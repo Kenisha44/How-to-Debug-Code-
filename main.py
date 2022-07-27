@@ -14,7 +14,7 @@ add(4, 'djfisd')
 
 #type in help 
 #help list for more information regarding commands for list 
-#step useful command 
+#step useful command
 #a gives all the arguments 
 #w shows context of current line executed 
 #This is from ztm course 
